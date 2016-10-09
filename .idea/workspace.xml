@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06bbca8a-1079-4dbe-9a92-d5fbfbea543f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/downloads.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript1.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MultTable.html" afterPath="$PROJECT_DIR$/multtable.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Squaring.html" afterPath="$PROJECT_DIR$/squaring.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TextGame.html" afterPath="$PROJECT_DIR$/textgame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/8BitArt.html" afterPath="$PROJECT_DIR$/8BitArt.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="06bbca8a-1079-4dbe-9a92-d5fbfbea543f" name="Default" comment="" />
     <ignored path="DumboOctopus.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -45,7 +36,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="395">
               <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
               <folding />
             </state>
@@ -89,12 +80,6 @@
               <caret line="406" column="16" selection-start-line="406" selection-start-column="16" selection-end-line="406" selection-end-column="16" />
               <folding>
                 <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1475990962000" expanded="false" signature="17931:17937" ph=" " />
-                <marker date="1475990962000" expanded="false" signature="17937:17943" ph=" " />
-                <marker date="1475990962000" expanded="false" signature="17943:17949" ph=" " />
-                <marker date="1475990962000" expanded="false" signature="17949:17955" ph=" " />
-                <marker date="1475990962000" expanded="false" signature="17955:17961" ph=" " />
-                <marker date="1475990962000" expanded="false" signature="17961:17967" ph=" " />
               </folding>
             </state>
           </provider>
@@ -184,6 +169,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -236,8 +223,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,32 +302,33 @@
       <updated>1475970996812</updated>
       <workItem from="1475971012679" duration="1720000" />
       <workItem from="1475977936369" duration="3258000" />
+      <workItem from="1475992411580" duration="97000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4978000" />
+    <option name="totallyTimeSpent" value="5075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="23" width="1260" height="672" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24939467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24939467" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32931036" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -363,16 +349,32 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript1.js">
+    <entry file="file://$PROJECT_DIR$/sytle1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downloads.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
           <folding />
         </state>
       </provider>
@@ -387,16 +389,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/textgame.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="406" column="16" selection-start-line="406" selection-start-column="16" selection-end-line="406" selection-end-column="16" />
+          <folding>
+            <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8BitArt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#h3#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript1.js" />
+    <entry file="file://$PROJECT_DIR$/multtable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textgame.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="402" column="0" selection-start-line="402" selection-start-column="0" selection-end-line="402" selection-end-column="0" />
           <folding>
             <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1475990962000" expanded="false" signature="17931:17937" ph=" " />
-            <marker date="1475990962000" expanded="false" signature="17937:17943" ph=" " />
-            <marker date="1475990962000" expanded="false" signature="17943:17949" ph=" " />
-            <marker date="1475990962000" expanded="false" signature="17949:17955" ph=" " />
-            <marker date="1475990962000" expanded="false" signature="17955:17961" ph=" " />
-            <marker date="1475990962000" expanded="false" signature="17961:17967" ph=" " />
           </folding>
         </state>
       </provider>
@@ -413,14 +447,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/navCopier.js" />
-    <entry file="file://$PROJECT_DIR$/JavaScript1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript1.js" />
     <entry file="file://$PROJECT_DIR$/multtable.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -437,14 +464,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebPlayer_V(-3).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/WebPlayer_V(-3).html" />
     <entry file="file://$PROJECT_DIR$/8BitArt.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -470,12 +490,6 @@
           <caret line="406" column="16" selection-start-line="406" selection-start-column="16" selection-end-line="406" selection-end-column="16" />
           <folding>
             <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1475990962000" expanded="false" signature="17931:17937" ph=" " />
-            <marker date="1475990962000" expanded="false" signature="17937:17943" ph=" " />
-            <marker date="1475990962000" expanded="false" signature="17943:17949" ph=" " />
-            <marker date="1475990962000" expanded="false" signature="17949:17955" ph=" " />
-            <marker date="1475990962000" expanded="false" signature="17955:17961" ph=" " />
-            <marker date="1475990962000" expanded="false" signature="17961:17967" ph=" " />
           </folding>
         </state>
       </provider>
@@ -490,7 +504,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="395">
           <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
           <folding />
         </state>
