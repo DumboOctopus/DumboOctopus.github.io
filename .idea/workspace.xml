@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="06bbca8a-1079-4dbe-9a92-d5fbfbea543f" name="Default" comment="externalized css of textgame">
+    <list default="true" id="06bbca8a-1079-4dbe-9a92-d5fbfbea543f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/games.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/css/style2.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/Release/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/Release/UnityLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/Release/platformer1_webgl_v0.datagz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/Release/platformer1_webgl_v0.jsgz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/Release/platformer1_webgl_v0.memgz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/UnityProgress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/fullbar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/fullscreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/loadingbar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/progresslogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/index.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/textgame.html" afterPath="$PROJECT_DIR$/games/textgame.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/js/textgame.js" afterPath="$PROJECT_DIR$/resources/js/textgame.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textgame.html" afterPath="$PROJECT_DIR$/textgame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/8BitArt.html" afterPath="$PROJECT_DIR$/8BitArt.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/downloads.html" afterPath="$PROJECT_DIR$/downloads.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multtable.html" afterPath="$PROJECT_DIR$/multtable.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/css/sytle1.css" afterPath="$PROJECT_DIR$/resources/css/sytle1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/squaring.html" afterPath="$PROJECT_DIR$/squaring.html" />
     </list>
     <ignored path="DumboOctopus.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,54 +51,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="8BitArt.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8BitArt.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#h3#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-              <folding>
-                <element signature="e#1346#1353#0" expanded="true" />
-                <element signature="e#1433#1440#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="textgame.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/textgame.html">
+      <file leaf-file-name="games.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/games.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-210">
+            <state relative-caret-position="228">
+              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="textgame.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/games/textgame.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
               <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
               <folding>
+                <element signature="e#1255#1261#0" expanded="true" />
                 <element signature="e#1261#1267#0" expanded="true" />
                 <element signature="e#1267#1273#0" expanded="true" />
                 <element signature="e#1273#1279#0" expanded="true" />
                 <element signature="e#1279#1285#0" expanded="true" />
                 <element signature="e#1285#1291#0" expanded="true" />
-                <element signature="e#1291#1297#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,6 +93,38 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="multtable.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multtable.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sytle1.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/css/sytle1.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="17" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style2.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/css/style2.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -117,8 +157,8 @@
       <file leaf-file-name="downloads.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/downloads.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="19" selection-end-column="73" />
+            <state relative-caret-position="138">
+              <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -140,8 +180,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -161,8 +201,6 @@
         <option value="$PROJECT_DIR$/TextGame.html" />
         <option value="$PROJECT_DIR$/Index.html" />
         <option value="$PROJECT_DIR$/sytle1.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/downloads.html" />
         <option value="$PROJECT_DIR$/8BitArt.html" />
         <option value="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/index.html" />
         <option value="$PROJECT_DIR$/squaring.html" />
@@ -170,6 +208,13 @@
         <option value="$PROJECT_DIR$/resources/css/textgame.css" />
         <option value="$PROJECT_DIR$/resources/js/textgame.js" />
         <option value="$PROJECT_DIR$/textgame.html" />
+        <option value="$PROJECT_DIR$/multtable.html" />
+        <option value="$PROJECT_DIR$/resources/css/sytle1.css" />
+        <option value="$PROJECT_DIR$/resources/css/test.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/downloads.html" />
+        <option value="$PROJECT_DIR$/games.html" />
+        <option value="$PROJECT_DIR$/resources/css/style2.css" />
       </list>
     </option>
   </component>
@@ -210,7 +255,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -257,7 +301,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -271,17 +315,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="games" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DumboOctopus.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DumboOctopus.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="games" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spacerock" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,12 +352,29 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/games/spacerock" />
+      <recent name="$PROJECT_DIR$/games" />
       <recent name="$PROJECT_DIR$/resources/css" />
       <recent name="$PROJECT_DIR$/resources/js" />
       <recent name="$PROJECT_DIR$/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Tetst">
+  <component name="RunManager" selected="JavaScript Debug.downloads.html">
+    <configuration default="false" name="spacerock.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DumboOctopus.github.io/games/spacerock/spacerock.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DumboOctopus.github.io/games/spacerock/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DumboOctopus.github.io/games/spacerock/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="games.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DumboOctopus.github.io/games.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="downloads.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DumboOctopus.github.io/downloads.html">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -352,12 +428,26 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration default="false" name="Tetst" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/DumboOctopus.github.io/textgame.html">
+    <configuration default="false" name="Tetst" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/DumboOctopus.github.io/games/textgame.html">
       <method />
     </configuration>
-    <list size="1">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Tetst" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.spacerock.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.games.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.downloads.html" />
     </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.downloads.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.games.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.spacerock.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -377,12 +467,21 @@
       <workItem from="1475992411580" duration="908000" />
       <workItem from="1476040403508" duration="91000" />
       <workItem from="1476125263220" duration="4173000" />
-      <workItem from="1476500237218" duration="317000" />
+      <workItem from="1476500237218" duration="1190000" />
+      <workItem from="1476502019073" duration="3132000" />
     </task>
+    <task id="LOCAL-00001" summary="iss1">
+      <created>1476500677236</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1476500677236</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10467000" />
+    <option name="totallyTimeSpent" value="14472000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -400,6 +499,8 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24939467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931036" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931036" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931036" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24939467" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -412,7 +513,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -429,7 +529,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="externalized css of textgame" />
-    <option name="LAST_COMMIT_MESSAGE" value="externalized css of textgame" />
+    <MESSAGE value="iss1" />
+    <option name="LAST_COMMIT_MESSAGE" value="iss1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -438,29 +539,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/textgame.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1261#1267#0" expanded="true" />
-            <element signature="e#1267#1273#0" expanded="true" />
-            <element signature="e#1273#1279#0" expanded="true" />
-            <element signature="e#1279#1285#0" expanded="true" />
-            <element signature="e#1285#1291#0" expanded="true" />
-            <element signature="e#1291#1297#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/textgame.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/textgame.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1755">
@@ -526,17 +604,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/textgame.html">
+    <entry file="file://$PROJECT_DIR$/games/textgame.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6090">
           <caret line="406" column="16" selection-start-line="406" selection-start-column="16" selection-end-line="406" selection-end-column="16" />
           <folding>
+            <element signature="e#1255#1261#0" expanded="true" />
             <element signature="e#1261#1267#0" expanded="true" />
             <element signature="e#1267#1273#0" expanded="true" />
             <element signature="e#1273#1279#0" expanded="true" />
             <element signature="e#1279#1285#0" expanded="true" />
             <element signature="e#1285#1291#0" expanded="true" />
-            <element signature="e#1291#1297#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -553,7 +631,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -584,17 +664,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/textgame.html">
+    <entry file="file://$PROJECT_DIR$/games/textgame.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6090">
           <caret line="406" column="16" selection-start-line="406" selection-start-column="16" selection-end-line="406" selection-end-column="16" />
           <folding>
+            <element signature="e#1255#1261#0" expanded="true" />
             <element signature="e#1261#1267#0" expanded="true" />
             <element signature="e#1267#1273#0" expanded="true" />
             <element signature="e#1273#1279#0" expanded="true" />
             <element signature="e#1279#1285#0" expanded="true" />
             <element signature="e#1285#1291#0" expanded="true" />
-            <element signature="e#1291#1297#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -611,7 +691,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -623,7 +705,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/index.html">
+    <entry file="file://$PROJECT_DIR$/games/spacerock/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -649,21 +731,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/textgame.html">
+    <entry file="file://$PROJECT_DIR$/games/textgame.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="406" column="16" selection-start-line="406" selection-start-column="16" selection-end-line="406" selection-end-column="16" />
           <folding>
+            <element signature="e#1255#1261#0" expanded="true" />
             <element signature="e#1261#1267#0" expanded="true" />
             <element signature="e#1267#1273#0" expanded="true" />
             <element signature="e#1273#1279#0" expanded="true" />
             <element signature="e#1279#1285#0" expanded="true" />
             <element signature="e#1285#1291#0" expanded="true" />
-            <element signature="e#1291#1297#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -692,21 +776,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/textgame.html">
+    <entry file="file://$PROJECT_DIR$/games/textgame.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="402" column="0" selection-start-line="402" selection-start-column="0" selection-end-line="402" selection-end-column="0" />
           <folding>
+            <element signature="e#1255#1261#0" expanded="true" />
             <element signature="e#1261#1267#0" expanded="true" />
             <element signature="e#1267#1273#0" expanded="true" />
             <element signature="e#1273#1279#0" expanded="true" />
             <element signature="e#1279#1285#0" expanded="true" />
             <element signature="e#1285#1291#0" expanded="true" />
-            <element signature="e#1291#1297#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -725,80 +811,54 @@
     <entry file="file://$PROJECT_DIR$/navCopier.js" />
     <entry file="file://$PROJECT_DIR$/JavaScript1.js" />
     <entry file="file://$PROJECT_DIR$/WebPlayer_V(-3).html" />
-    <entry file="file://$PROJECT_DIR$/resources/css/sytle1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multtable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/favicon.ico">
+    <entry file="file://$PROJECT_DIR$/games/spacerock/TemplateData/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/fullbar.png">
+    <entry file="file://$PROJECT_DIR$/games/spacerock/TemplateData/fullbar.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/fullscreen.png">
+    <entry file="file://$PROJECT_DIR$/games/spacerock/TemplateData/fullscreen.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/Release/UnityLoader.js">
+    <entry file="file://$PROJECT_DIR$/games/spacerock/Release/UnityLoader.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/UnityProgress.js">
+    <entry file="file://$PROJECT_DIR$/games/spacerock/TemplateData/UnityProgress.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/progresslogo.png">
+    <entry file="file://$PROJECT_DIR$/games/spacerock/TemplateData/progresslogo.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/logo.png">
+    <entry file="file://$PROJECT_DIR$/games/spacerock/TemplateData/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/loadingbar.png">
+    <entry file="file://$PROJECT_DIR$/games/spacerock/TemplateData/loadingbar.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/style.css">
+    <entry file="file://$PROJECT_DIR$/games/spacerock/TemplateData/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -813,29 +873,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/index.html">
+    <entry file="file://$PROJECT_DIR$/games/spacerock/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-          <folding>
-            <element signature="e#1346#1353#0" expanded="true" />
-            <element signature="e#1433#1440#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="19" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/squaring.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -870,18 +911,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/textgame.html">
+    <entry file="file://$PROJECT_DIR$/squaring.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
+        <state relative-caret-position="945">
+          <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games/textgame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
           <folding>
+            <element signature="e#1255#1261#0" expanded="true" />
             <element signature="e#1261#1267#0" expanded="true" />
             <element signature="e#1267#1273#0" expanded="true" />
             <element signature="e#1273#1279#0" expanded="true" />
             <element signature="e#1279#1285#0" expanded="true" />
             <element signature="e#1285#1291#0" expanded="true" />
-            <element signature="e#1291#1297#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multtable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/sytle1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downloads.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
