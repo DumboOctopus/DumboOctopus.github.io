@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06bbca8a-1079-4dbe-9a92-d5fbfbea543f" name="Default" comment="externalized css of textgame">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/css/textgame.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/js/textgame.js" afterPath="$PROJECT_DIR$/resources/js/textgame.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textgame.html" afterPath="$PROJECT_DIR$/textgame.html" />
     </list>
     <ignored path="DumboOctopus.github.io.iws" />
@@ -30,7 +30,7 @@
       <file leaf-file-name="8BitArt.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/8BitArt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
+            <state relative-caret-position="360">
               <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#h3#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -43,7 +43,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="450">
               <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
               <folding>
                 <element signature="e#1346#1353#0" expanded="true" />
@@ -66,15 +66,15 @@
       <file leaf-file-name="textgame.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/textgame.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+            <state relative-caret-position="-210">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
               <folding>
-                <element signature="e#1458#1464#0" expanded="true" />
-                <element signature="e#1464#1470#0" expanded="true" />
-                <element signature="e#1470#1476#0" expanded="true" />
-                <element signature="e#1476#1482#0" expanded="true" />
-                <element signature="e#1482#1488#0" expanded="true" />
-                <element signature="e#1488#1494#0" expanded="true" />
+                <element signature="e#1261#1267#0" expanded="true" />
+                <element signature="e#1267#1273#0" expanded="true" />
+                <element signature="e#1273#1279#0" expanded="true" />
+                <element signature="e#1279#1285#0" expanded="true" />
+                <element signature="e#1285#1291#0" expanded="true" />
+                <element signature="e#1291#1297#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,8 +93,8 @@
       <file leaf-file-name="textgame.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/js/textgame.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1755">
-              <caret line="368" column="4" selection-start-line="368" selection-start-column="4" selection-end-line="368" selection-end-column="4" />
+            <state relative-caret-position="960">
+              <caret line="315" column="37" selection-start-line="315" selection-start-column="37" selection-end-line="315" selection-end-column="37" />
               <folding>
                 <element signature="e#143#511#0" expanded="false" />
                 <element signature="e#557#639#0" expanded="false" />
@@ -168,6 +168,7 @@
         <option value="$PROJECT_DIR$/squaring.html" />
         <option value="$PROJECT_DIR$/textgame.js" />
         <option value="$PROJECT_DIR$/resources/css/textgame.css" />
+        <option value="$PROJECT_DIR$/resources/js/textgame.js" />
         <option value="$PROJECT_DIR$/textgame.html" />
       </list>
     </option>
@@ -179,8 +180,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="9" />
-    <option name="y" value="36" />
+    <option name="x" value="14" />
+    <option name="y" value="23" />
     <option name="width" value="1260" />
     <option name="height" value="672" />
   </component>
@@ -209,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -255,13 +257,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DumboOctopus.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DumboOctopus.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -358,11 +377,12 @@
       <workItem from="1475992411580" duration="908000" />
       <workItem from="1476040403508" duration="91000" />
       <workItem from="1476125263220" duration="4173000" />
+      <workItem from="1476500237218" duration="317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10150000" />
+    <option name="totallyTimeSpent" value="10467000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -374,14 +394,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="36" width="1260" height="672" extended-state="0" />
+    <frame x="14" y="23" width="1260" height="672" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24939467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931036" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32931036" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931036" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24939467" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -389,10 +407,12 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32931036" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -418,6 +438,67 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/textgame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1261#1267#0" expanded="true" />
+            <element signature="e#1267#1273#0" expanded="true" />
+            <element signature="e#1273#1279#0" expanded="true" />
+            <element signature="e#1279#1285#0" expanded="true" />
+            <element signature="e#1285#1291#0" expanded="true" />
+            <element signature="e#1291#1297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/textgame.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/textgame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="368" column="4" selection-start-line="368" selection-start-column="4" selection-end-line="368" selection-end-column="4" />
+          <folding>
+            <element signature="e#143#511#0" expanded="false" />
+            <element signature="e#557#639#0" expanded="false" />
+            <element signature="e#680#727#0" expanded="false" />
+            <element signature="e#751#1051#0" expanded="false" />
+            <element signature="e#1075#1733#0" expanded="false" />
+            <element signature="e#1103#1677#0" expanded="false" />
+            <element signature="e#1755#2154#0" expanded="false" />
+            <element signature="e#2179#2312#0" expanded="false" />
+            <element signature="e#2337#3128#0" expanded="false" />
+            <element signature="e#3152#3614#0" expanded="false" />
+            <element signature="e#3641#15732#0" expanded="false" />
+            <element signature="e#3657#5877#0" expanded="false" />
+            <element signature="e#15747#15771#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downloads.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="19" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/squaring.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -450,12 +531,12 @@
         <state relative-caret-position="6090">
           <caret line="406" column="16" selection-start-line="406" selection-start-column="16" selection-end-line="406" selection-end-column="16" />
           <folding>
-            <element signature="e#1458#1464#0" expanded="true" />
-            <element signature="e#1464#1470#0" expanded="true" />
-            <element signature="e#1470#1476#0" expanded="true" />
-            <element signature="e#1476#1482#0" expanded="true" />
-            <element signature="e#1482#1488#0" expanded="true" />
-            <element signature="e#1488#1494#0" expanded="true" />
+            <element signature="e#1261#1267#0" expanded="true" />
+            <element signature="e#1267#1273#0" expanded="true" />
+            <element signature="e#1273#1279#0" expanded="true" />
+            <element signature="e#1279#1285#0" expanded="true" />
+            <element signature="e#1285#1291#0" expanded="true" />
+            <element signature="e#1291#1297#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -508,12 +589,12 @@
         <state relative-caret-position="6090">
           <caret line="406" column="16" selection-start-line="406" selection-start-column="16" selection-end-line="406" selection-end-column="16" />
           <folding>
-            <element signature="e#1458#1464#0" expanded="true" />
-            <element signature="e#1464#1470#0" expanded="true" />
-            <element signature="e#1470#1476#0" expanded="true" />
-            <element signature="e#1476#1482#0" expanded="true" />
-            <element signature="e#1482#1488#0" expanded="true" />
-            <element signature="e#1488#1494#0" expanded="true" />
+            <element signature="e#1261#1267#0" expanded="true" />
+            <element signature="e#1267#1273#0" expanded="true" />
+            <element signature="e#1273#1279#0" expanded="true" />
+            <element signature="e#1279#1285#0" expanded="true" />
+            <element signature="e#1285#1291#0" expanded="true" />
+            <element signature="e#1291#1297#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -577,12 +658,12 @@
         <state relative-caret-position="300">
           <caret line="406" column="16" selection-start-line="406" selection-start-column="16" selection-end-line="406" selection-end-column="16" />
           <folding>
-            <element signature="e#1458#1464#0" expanded="true" />
-            <element signature="e#1464#1470#0" expanded="true" />
-            <element signature="e#1470#1476#0" expanded="true" />
-            <element signature="e#1476#1482#0" expanded="true" />
-            <element signature="e#1482#1488#0" expanded="true" />
-            <element signature="e#1488#1494#0" expanded="true" />
+            <element signature="e#1261#1267#0" expanded="true" />
+            <element signature="e#1267#1273#0" expanded="true" />
+            <element signature="e#1273#1279#0" expanded="true" />
+            <element signature="e#1279#1285#0" expanded="true" />
+            <element signature="e#1285#1291#0" expanded="true" />
+            <element signature="e#1291#1297#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -620,12 +701,12 @@
         <state relative-caret-position="135">
           <caret line="402" column="0" selection-start-line="402" selection-start-column="0" selection-end-line="402" selection-end-column="0" />
           <folding>
-            <element signature="e#1458#1464#0" expanded="true" />
-            <element signature="e#1464#1470#0" expanded="true" />
-            <element signature="e#1470#1476#0" expanded="true" />
-            <element signature="e#1476#1482#0" expanded="true" />
-            <element signature="e#1482#1488#0" expanded="true" />
-            <element signature="e#1488#1494#0" expanded="true" />
+            <element signature="e#1261#1267#0" expanded="true" />
+            <element signature="e#1267#1273#0" expanded="true" />
+            <element signature="e#1273#1279#0" expanded="true" />
+            <element signature="e#1279#1285#0" expanded="true" />
+            <element signature="e#1285#1291#0" expanded="true" />
+            <element signature="e#1291#1297#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -723,7 +804,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/8BitArt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
+        <state relative-caret-position="360">
           <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#span#0;n#h3#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -734,7 +815,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spacerock/platformer1_webgl_v0/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="450">
           <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
           <folding>
             <element signature="e#1346#1353#0" expanded="true" />
@@ -759,10 +840,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/textgame.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/textgame.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="368" column="4" selection-start-line="368" selection-start-column="4" selection-end-line="368" selection-end-column="4" />
+        <state relative-caret-position="960">
+          <caret line="315" column="37" selection-start-line="315" selection-start-column="37" selection-end-line="315" selection-end-column="37" />
           <folding>
             <element signature="e#143#511#0" expanded="false" />
             <element signature="e#557#639#0" expanded="false" />
@@ -781,25 +870,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/textgame.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/textgame.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        <state relative-caret-position="-210">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
           <folding>
-            <element signature="e#1458#1464#0" expanded="true" />
-            <element signature="e#1464#1470#0" expanded="true" />
-            <element signature="e#1470#1476#0" expanded="true" />
-            <element signature="e#1476#1482#0" expanded="true" />
-            <element signature="e#1482#1488#0" expanded="true" />
-            <element signature="e#1488#1494#0" expanded="true" />
+            <element signature="e#1261#1267#0" expanded="true" />
+            <element signature="e#1267#1273#0" expanded="true" />
+            <element signature="e#1273#1279#0" expanded="true" />
+            <element signature="e#1279#1285#0" expanded="true" />
+            <element signature="e#1285#1291#0" expanded="true" />
+            <element signature="e#1291#1297#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -314,7 +314,7 @@ var movePlayer = function (form){
             case 83:
                 player.px = player.x;
                 player.py = player.y;
-                player.y -= 1
+                player.y -= 1;
                 break;
         }
     }
