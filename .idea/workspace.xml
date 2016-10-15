@@ -5,30 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06bbca8a-1079-4dbe-9a92-d5fbfbea543f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/games.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/css/style2.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/Release/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/Release/UnityLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/Release/platformer1_webgl_v0.datagz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/Release/platformer1_webgl_v0.jsgz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/Release/platformer1_webgl_v0.memgz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/UnityProgress.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/fullbar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/fullscreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/loadingbar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/progresslogo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/TemplateData/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spacerock/platformer1_webgl_v0/index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/textgame.html" afterPath="$PROJECT_DIR$/games/textgame.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/8BitArt.html" afterPath="$PROJECT_DIR$/8BitArt.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/downloads.html" afterPath="$PROJECT_DIR$/downloads.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games.html" afterPath="$PROJECT_DIR$/games.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multtable.html" afterPath="$PROJECT_DIR$/multtable.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/css/sytle1.css" afterPath="$PROJECT_DIR$/resources/css/sytle1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/squaring.html" afterPath="$PROJECT_DIR$/squaring.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/css/style2.css" afterPath="$PROJECT_DIR$/resources/css/style2.css" />
     </list>
     <ignored path="DumboOctopus.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,8 +35,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+            <state relative-caret-position="330">
+              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -64,8 +45,8 @@
       <file leaf-file-name="games.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/games.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -123,8 +104,8 @@
       <file leaf-file-name="style2.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/css/style2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+            <state relative-caret-position="285">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,8 +138,8 @@
       <file leaf-file-name="downloads.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/downloads.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -211,9 +192,9 @@
         <option value="$PROJECT_DIR$/multtable.html" />
         <option value="$PROJECT_DIR$/resources/css/sytle1.css" />
         <option value="$PROJECT_DIR$/resources/css/test.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/downloads.html" />
         <option value="$PROJECT_DIR$/games.html" />
+        <option value="$PROJECT_DIR$/downloads.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resources/css/style2.css" />
       </list>
     </option>
@@ -468,7 +449,7 @@
       <workItem from="1476040403508" duration="91000" />
       <workItem from="1476125263220" duration="4173000" />
       <workItem from="1476500237218" duration="1190000" />
-      <workItem from="1476502019073" duration="3132000" />
+      <workItem from="1476502019073" duration="5026000" />
     </task>
     <task id="LOCAL-00001" summary="iss1">
       <created>1476500677236</created>
@@ -481,7 +462,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14472000" />
+    <option name="totallyTimeSpent" value="16366000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -944,14 +925,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/css/sytle1.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -960,26 +933,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/downloads.html">
+    <entry file="file://$PROJECT_DIR$/games.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/games.html">
+    <entry file="file://$PROJECT_DIR$/downloads.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/css/style2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        <state relative-caret-position="285">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
