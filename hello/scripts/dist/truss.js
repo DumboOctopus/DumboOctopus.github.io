@@ -238,7 +238,7 @@ var Car = fabric.util.createClass(fabric.Rect, {
             hasBorders: false,
             height: options.height || 50,
             left: options.left ||50,
-            fill: "hsla(123, 51%, 64%, 0.65)",
+            fill: "hsla(32, 100%, 50%, 1)",
             label: options.label || 'Distributed Load'
         }); 
     },
@@ -1250,10 +1250,32 @@ var ModeController={
                 'You have ' + EntityController.nodes.length + ' nodes and ' + EntityController.members.length + ' members');
                 this.simulation=false;
 	        } else if (!EntityController.car) { //if the car object doesnt exist yet
+
+
+                //calculated highest node
+                ns = EntityController.nodes;
+
+                var maxHeight = Grid.canvas.height;
+                if(ns) {
+
+                    for (var wei = 0; wei < ns.length; wei++) {
+                        //lol try catch fixes everything -js
+                        try {
+                            var x = ns[wei];
+                            if (x && x.getCenterPoint() && x.getCenterPoint().y && x.getCenterPoint().y < maxHeight)
+                                maxHeight = y;
+                        }catch(e){}
+                    }
+                }
+                alert(maxHeight);
+
 	            var car = new Car({
 	                width: EntityController.car_length * Grid.grid_meter * Grid.grid_size,
-	                top: Grid.canvas.getHeight() / 3 - 40
+	                top: (maxHeight - 20),
+                    left: (EntityController.supportB.left-EntityController.supportA.left)/2 + 50
 	            });
+
+
 
 	            EntityController.car = car;
 	            Grid.canvas.add(car);
