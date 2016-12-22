@@ -2,27 +2,27 @@
 <html>
 <head>
     <title>DumboOctopus from Github</title>
-    <link rel="stylesheet" type="text/css" href="resources/css/defaultstyle.css">
 
+    <link rel="stylesheet" href="resources/css/style2.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-
 <body>
-    <div class="container">
-        <div class="nav-main">
-            <div class="wrap">
-                <a class="nav-home" href="index.html">
-                    Home
-                </a>
-                <ul class="nav-site nav-site-internal">
-                    <li><a href="downloads.html">Downloads</a></li>
-                    <li><a href="8BitArt.html">Pixel Editor</a></li>
-                    <li><a href="games.html">Games</a></li>
-                </ul>
-
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="index.html">DumboOctopus</a>
             </div>
+            <ul class="nav navbar-nav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="downloads.html">Downloads</a></li>
+                <li><a href="8BitArt.html">Pixel Editor</a></li>
+                <li class="active"><a href="games.html">Games</a></li>
+            </ul>
         </div>
-    </div>
-    <div class="inner-content">
+    </nav>
+    <div class="container inner-content">
         <section>
             <h2>Text Game</h2>
             <hr>
@@ -31,8 +31,8 @@
                 During that time, my favorite game was this resource management game called
                 adarkroom. So naturally, I tried to create a game that would emulate it.
             </p>
-            <hr>
             <a href="games/textgame.html">Text Game</a>
+            <hr>
         </section>
         <section>
             <h2>Space Rock</h2>
@@ -42,13 +42,14 @@
                 Although we never finished, we got some progress before we could not continue
                 due to schedule difficulties.
             </p>
-            <hr>
+
             <a href="games/spacerock/index.html">Space Rock</a>
+            <hr>
         </section>
     </div>
-
-    <footer>
-        DumboOctopus (aka Neil)
+    <br>
+    <footer class="footer-inverse container-fluid footer">
+        <p style="text-align: center">DumboOctopus (aka Neil)</p>
     </footer>
 </body>
 

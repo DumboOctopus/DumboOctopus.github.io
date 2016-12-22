@@ -2,26 +2,29 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="resources/css/defaultstyle.css">
     <title>Downloads</title>
+    <link rel="stylesheet" href="resources/css/style2.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-    <div class="container">
-        <div class="nav-main">
-            <div class="wrap">
-                <a class="nav-home" href="index.html">
-                    Home
-                </a>
-                <ul class="nav-site nav-site-internal">
-                    <li><a href="downloads.html">Downloads</a></li>
-                    <li><a href="8BitArt.html">Pixel Editor</a></li>
-                    <li><a href="games.html">Games</a></li>
-                </ul>
-
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="index.html">DumboOctopus</a>
             </div>
+            <ul class="nav navbar-nav">
+                <li><a href="index.html">Home</a></li>
+                <li class="active"><a href="downloads.html">Downloads</a></li>
+                <li><a href="8BitArt.html">Pixel Editor</a></li>
+                <li><a href="games.html">Games</a></li>
+            </ul>
         </div>
-    </div>
-    <div class="inner-content">
+    </nav>
+
+    <div class="container inner-content">
+
         <section>
             <h2>AntiStipulator</h2>
 
@@ -32,9 +35,10 @@
             </p>
             <a href="resources/Antistipulator7.jar" target="_blank">AntiStipulator (jdk 1.7)</a>
             <a href="resources/Antistipulator8.jar" target="_blank">AntiStipulator (jdk 1.8)</a>
-            <p>Hosted with love on <a href="https://github.com/DumboOctopus/Antistipulator">github</a></p>
+            <p class="text-muted">Hosted with love on <a href="https://github.com/DumboOctopus/Antistipulator">github</a></p>
 
         </section>
+        <br>
         <section>
             <h2>Unit Circle Quiz</h2>
 
@@ -48,9 +52,11 @@
             </p>
             <a href="resources/Unit-Circle-Game.jar" target="_blank">Download jar</a>
         </section>
+
     </div>
-    <footer>
-        DumboOctopus (aka Neil)
+    <br>
+    <footer class="footer-inverse container-fluid footer">
+        <p style="text-align: center">DumboOctopus (aka Neil)</p>
     </footer>
 </body>
 </html>

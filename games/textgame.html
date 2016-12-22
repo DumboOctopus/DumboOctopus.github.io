@@ -20,58 +20,66 @@
 				initialize();
 			});
 		</script>
-		<link rel="stylesheet" type="text/css" href="../resources/css/sytle1.css">
+		<link rel="stylesheet" href="../resources/css/style2.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="../resources/css/textgame.css">
 
 	</head>
 	<body>
-		<header>
-			<h1>This Text Game</h1>
-		</header>
-		<nav>
-			<a href="../index.html">Home Page</a>
-			<a href="../downloads.html">Downloads</a>
-			<hr>
-			<a href="../8BitArt.html">8 Bit Art</a>
-			<hr>
-			<p>Games</p>
-			<a href="textgame.html">Text Game</a><br>
-			<a href="spacerock/index.html">SpaceRock</a>
+		<nav class="navbar navbar-inverse">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="../index.html">DumboOctopus</a>
+				</div>
+				<ul class="nav navbar-nav">
+					<li><a href="../index.html">Home</a></li>
+					<li><a href="../downloads.html">Downloads</a></li>
+					<li><a href="../8BitArt.html">Pixel Editor</a></li>
+					<li class="active"><a href="../games.html">Games</a></li>
+				</ul>
+			</div>
 		</nav>
-		<section>
-			<form id="iFORM">
-				<table>
-					<tr>
-						<td></td>
-						<td>
-							<p>
-								<button onclick ="return false;">The Locked Room</button>
-							</p>
-						</td>
-						<td>
-							<div align="right">
-							  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keys: <input id = "o_keys" readonly = "readonly" type = "number">
-							</div>
-						</td>	
-					</tr>
-					<tr>
-						<td>
-							<textarea id ="o_messages" rows="40" cols="25" readonly="readonly" value=""></textarea>
-						</td>
-						<td>
+		<div class="container">
+			<h1>Text Game</h1>
+			<section>
+				<form id="iFORM">
+					<table>
+						<tr>
+							<td></td>
+							<td>
+								<p>
+									<button onclick ="return false;">The Locked Room</button>
+								</p>
+							</td>
+							<td>
+								<div align="right">
+								  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keys: <input id = "o_keys" readonly = "readonly" type = "number">
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<textarea id ="o_messages" rows="40" cols="25" readonly="readonly" value=""></textarea>
+							</td>
+							<td>
 
-							<!-- The MAP-->
+								<!-- The MAP-->
 
-							<textarea id ="o_map" rows="27" cols="53" readonly="readonly" value=""></textarea>
-						</td>
-					</tr>
-				</table>
-				
-			</form>
-		</section>
+								<textarea id ="o_map" rows="27" cols="53" readonly="readonly" value=""></textarea>
+							</td>
+						</tr>
+					</table>
+
+				</form>
+			</section>
+		</div>
 	</body>
-	
-	<footer>
-	This is a foot thats about it
+
+	<footer class="footer-inverse footer">
+		<div class="containter-fluid">
+			<p style="text-align: center">DumboOctopus (aka Neil)</p>
+		</div>
 	</footer>
 </html>
