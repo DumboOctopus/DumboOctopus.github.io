@@ -5,23 +5,35 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity WebGL Player | Platformer_1</title>
     <link rel="stylesheet" href="TemplateData/style.css">
-    <link rel="stylesheet" href="../../resources/css/sytle1.css">
+
+    <link rel="stylesheet" href="../../resources/css/style2.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
     <link rel="shortcut icon" href="TemplateData/favicon.ico" />
     <script src="TemplateData/UnityProgress.js"></script>
   </head>
   <body class="template">
     <p class="header"><span>Unity WebGL Player | </span>Platformer_1</p>
-    <nav id="nav1">
-      <a href="../../index.html">Home Page</a>
-      <a href="../../downloads.html">Downloads</a>
-      <hr>
-      <a href="../../8BitArt.html">8 Bit Art</a>
-      <hr>
-      <p>Games</p>
-      <a href="../textgame.html">Text Game</a><br>
-      <a href="index.html">SpaceRock</a>
+
+
+    <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="../../index.html">DumboOctopus</a>
+        </div>
+        <ul class="nav navbar-nav">
+          <li ><a href="../../index.html">Home</a></li>
+          <li ><a href="../../downloads.html">Downloads</a></li>
+          <li><a href="../../8BitArt.html">Pixel Editor</a></li>
+          <li class="active"><a href="../../games.html">Games</a></li>
+        </ul>
+      </div>
     </nav>
-    <div class="template-wrap clear">
+
+
+    <div class="clear container">
       <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="600px" width="960px"></canvas>
       <br>
       <div class="logo"></div>
