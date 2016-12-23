@@ -16,7 +16,7 @@
 				};
 				document.getElementsByTagName('head')[0].appendChild(s);
 			}
-			loadJS('resources/js/textgame.js', function() {
+			loadJS('../resources/js/textgame.js', function() {
 				initialize();
 			});
 		</script>
@@ -43,37 +43,32 @@
 		</nav>
 		<div class="container">
 			<h1>Text Game</h1>
-			<section>
-				<form id="iFORM">
-					<table>
-						<tr>
-							<td></td>
-							<td>
-								<p>
-									<button onclick ="return false;">The Locked Room</button>
-								</p>
-							</td>
-							<td>
-								<div align="right">
-								  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keys: <input id = "o_keys" readonly = "readonly" type = "number">
-								</div>
-							</td>
-						</tr>
-						<tr>
-							<td>
-								<textarea id ="o_messages" rows="40" cols="25" readonly="readonly" value=""></textarea>
-							</td>
-							<td>
+			<form id="iFORM">
+				<table>
+					<tr>
+						<td></td>
+						<td>
+						</td>
+						<td>
+							<div align="right">
+							  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keys: <input id = "o_keys" readonly = "readonly" type = "number">
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<textarea id ="o_messages" rows="40" cols="25" readonly="readonly" value=""></textarea>
+						</td>
+						<td>
 
-								<!-- The MAP-->
+							<!-- The MAP-->
 
-								<textarea id ="o_map" rows="27" cols="53" readonly="readonly" value=""></textarea>
-							</td>
-						</tr>
-					</table>
+							<textarea id ="o_map" rows="27" cols="53" readonly="readonly" value=""></textarea>
+						</td>
+					</tr>
+				</table>
 
-				</form>
-			</section>
+			</form>
 		</div>
 	</body>
 
