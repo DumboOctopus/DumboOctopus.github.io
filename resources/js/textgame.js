@@ -1,5 +1,5 @@
 //new broadcast stuff
-var messages = ["You find yourself in a room...Use arrow keys to move the at symbol(you)"];
+var messages = ["You find yourself in a room...Use arrow keys to move the @ symbol(you)"];
 var addMessage = function (m){
     messages.push(m);
     theForm.o_messages.value = "";

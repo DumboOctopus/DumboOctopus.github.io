@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06bbca8a-1079-4dbe-9a92-d5fbfbea543f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/games/squaring.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/js/squaring.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/squaring.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games/textgame.html" afterPath="$PROJECT_DIR$/games/textgame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/games.html" afterPath="$PROJECT_DIR$/games.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multtable.html" afterPath="$PROJECT_DIR$/multtable.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/js/textgame.js" afterPath="$PROJECT_DIR$/resources/js/textgame.js" />
     </list>
     <ignored path="DumboOctopus.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,8 +37,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+            <state relative-caret-position="30">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="22" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -41,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="games.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="games.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/games.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="50" column="48" selection-start-line="50" selection-start-column="48" selection-end-line="50" selection-end-column="48" />
+            <state relative-caret-position="273">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -53,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="textgame.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="textgame.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/games/textgame.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="63" column="41" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+            <state relative-caret-position="60">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="42" selection-end-column="14" />
               <folding>
                 <element signature="e#1621#1627#0" expanded="true" />
                 <element signature="e#1627#1633#0" expanded="true" />
@@ -71,16 +76,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/games/spacerock/index.html">
+      <file leaf-file-name="textgame.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/js/textgame.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
-              <folding>
-                <element signature="e#1861#1868#0" expanded="true" />
-                <element signature="e#1948#1955#0" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,8 +89,8 @@
       <file leaf-file-name="multtable.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/multtable.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            <state relative-caret-position="150">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -100,11 +101,31 @@
       <file leaf-file-name="downloads.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/downloads.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+            <state relative-caret-position="105">
+              <caret line="7" column="92" selection-start-line="7" selection-start-column="92" selection-end-line="8" selection-end-column="95" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="squaring.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/games/squaring.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="squaring.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/js/squaring.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,31 +143,11 @@
       <file leaf-file-name="8BitArt.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/8BitArt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="95" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="textgame.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/css/textgame.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="squaring.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/squaring.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -156,9 +157,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -182,9 +183,7 @@
         <option value="$PROJECT_DIR$/squaring.html" />
         <option value="$PROJECT_DIR$/textgame.js" />
         <option value="$PROJECT_DIR$/resources/css/textgame.css" />
-        <option value="$PROJECT_DIR$/resources/js/textgame.js" />
         <option value="$PROJECT_DIR$/textgame.html" />
-        <option value="$PROJECT_DIR$/multtable.html" />
         <option value="$PROJECT_DIR$/resources/css/sytle1.css" />
         <option value="$PROJECT_DIR$/resources/css/test.css" />
         <option value="$PROJECT_DIR$/hello/index.html" />
@@ -193,10 +192,14 @@
         <option value="$PROJECT_DIR$/resources/css/style2.css" />
         <option value="$PROJECT_DIR$/8BitArt.html" />
         <option value="$PROJECT_DIR$/downloads.html" />
-        <option value="$PROJECT_DIR$/games.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/games/spacerock/index.html" />
         <option value="$PROJECT_DIR$/games/textgame.html" />
+        <option value="$PROJECT_DIR$/resources/js/textgame.js" />
+        <option value="$PROJECT_DIR$/multtable.html" />
+        <option value="$PROJECT_DIR$/games.html" />
+        <option value="$PROJECT_DIR$/games/squaring.html" />
+        <option value="$PROJECT_DIR$/resources/js/squaring.js" />
       </list>
     </option>
   </component>
@@ -321,24 +324,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DumboOctopus.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DumboOctopus.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="games" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spacerock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -351,14 +336,14 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/js" />
+      <recent name="$PROJECT_DIR$/games" />
+      <recent name="$PROJECT_DIR$/games/spacerock" />
+      <recent name="$PROJECT_DIR$/resources/css" />
       <recent name="$PROJECT_DIR$/resources" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/games/spacerock" />
-      <recent name="$PROJECT_DIR$/games" />
-      <recent name="$PROJECT_DIR$/resources/css" />
-      <recent name="$PROJECT_DIR$/resources/js" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources" />
     </key>
   </component>
@@ -491,7 +476,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24572000" />
+    <option name="totallyTimeSpent" value="29588000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -549,13 +534,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/8BitArt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/downloads.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -582,7 +560,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/squaring.html">
+    <entry file="file://$PROJECT_DIR$/games/squaring.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -643,7 +621,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/squaring.html">
+    <entry file="file://$PROJECT_DIR$/games/squaring.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -820,54 +798,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/js/textgame.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="315" column="37" selection-start-line="315" selection-start-column="37" selection-end-line="315" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/squaring.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multtable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hello/scripts/EntityController.js" />
     <entry file="file://$PROJECT_DIR$/hello/index.html" />
     <entry file="file://$PROJECT_DIR$/hello/scripts/dist/truss.js" />
     <entry file="file://$PROJECT_DIR$/resources/css/defaultstyle.css" />
     <entry file="file://$PROJECT_DIR$/resources/css/sytle1.css" />
-    <entry file="file://$PROJECT_DIR$/resources/css/style2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/games/spacerock/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -875,36 +810,6 @@
           <folding>
             <element signature="e#1861#1868#0" expanded="true" />
             <element signature="e#1948#1955#0" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/games.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="50" column="48" selection-start-line="50" selection-start-column="48" selection-end-line="50" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8BitArt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-          <folding>
             <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -918,10 +823,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="22" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8BitArt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="95" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downloads.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="92" selection-start-line="7" selection-start-column="92" selection-end-line="8" selection-end-column="95" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/textgame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/games/textgame.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" column="41" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+        <state relative-caret-position="60">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="42" selection-end-column="14" />
           <folding>
             <element signature="e#1621#1627#0" expanded="true" />
             <element signature="e#1627#1633#0" expanded="true" />
@@ -930,6 +881,42 @@
             <element signature="e#1645#1651#0" expanded="true" />
             <element signature="e#1651#1657#0" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multtable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games/squaring.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/squaring.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
