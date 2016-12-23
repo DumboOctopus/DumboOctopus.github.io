@@ -1,4 +1,7 @@
 .footer-inverse{
     background-color: black;
     color: white;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
 }
