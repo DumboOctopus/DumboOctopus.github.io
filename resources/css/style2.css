@@ -1,6 +1,8 @@
 .footer-inverse{
     background-color: black;
     color: white;
+}
+.footer-sticky{
     bottom: 0;
     position: absolute;
     width: 100%;
