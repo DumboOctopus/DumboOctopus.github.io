@@ -3,7 +3,7 @@ import './style.css';
 
 function About () {
   return (
-    <div class="body-section-container">
+    <div className="body-section-container">
       <p id="about" className='intro-header'>
       Hello I'm <b>Neil</b>,<br/>
       a <b>sophomore Computer Science major</b> at <br/>

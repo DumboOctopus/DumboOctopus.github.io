@@ -22,7 +22,7 @@ class Sidebar extends React.Component {
     this.setState({ width: window.innerWidth, height: window.innerHeight });
   }
   render = () => {
-    let isMobile = this.state.width <= 600; //this is also in the media queries
+    let isMobile = this.state.width <= 820; //this is also in the media queries
     return (
       <div className='sidebar'>
         <Profile isMobile={isMobile}/>

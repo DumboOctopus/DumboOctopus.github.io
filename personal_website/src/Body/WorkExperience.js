@@ -17,7 +17,7 @@ function WorkExperience () {
             On October 2018, I became an <b>Internal Tools Contributor</b>.
             As a contributor, I coded parts of the frontend and backend of
             Daily Bruin's custom <a className="grey-link" href="https://github.com/dailybruin/meow">social media scheduler, meow</a>.
-            <h4>Timeline</h4>
+            <div className="work-experience-interrupt">Timeline</div>
             In March 2019, the former Internal Tools Directory was promoted to the Online Director.
             I applied to the vacant position and since then became the <b>Internal Tools Director</b>.
             <br/>
@@ -35,7 +35,7 @@ function WorkExperience () {
             Unmanned Aerial Systems at UCLA is an organization which "competes in international AUVSI SUAS competition to design, manufacture,
             and test cutting-edge drone technology for carrying out mock search-and-rescue missions, in accordance with the competition specs"
             (<a className="grey-link" href="https://uasatucla.org/">Source: UAS at UCLA Website </a>).
-            <h4>Timeline</h4>
+           <div className="work-experience-interrupt">Timeline</div>
             On October 2018, I became an <b>Ground Communications member</b> and I coded parts of the frontend and backend of
             UAS's groundstation web application which used Node.js, React.js and socket.io.
             <br/>
@@ -51,7 +51,7 @@ function WorkExperience () {
             Cod.Ed is a 501c dedicated to teaching computer programming to. elementary, middle and high schoolers.
             Additionally, they teach at many coding at many school sites and serve as a coding backend for
             other non profits. <a className="grey-link" href="https://coded.academy/"> Cod.Ed Website</a>
-            <h4>Timeline</h4>
+            <div className="work-experience-interrupt">Timeline</div>
             In <b>2016</b>, I began volunteering as a <b>teaching assitant</b> at Cod.Ed
             <br/>
             In <b>2017</b>, I became a <b>paid teacher</b> at Cod.Ed. I taught Java and Python to elementary, middle and high schoolers.
