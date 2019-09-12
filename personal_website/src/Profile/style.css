@@ -1,7 +1,12 @@
 .profile-pic{
   border-radius: 50%;
   width: 30%;
+}
 
+@media only screen and (max-width: 600px) {
+  .profile-pic {
+    width:50%;
+  }
 }
 
 .profile{
