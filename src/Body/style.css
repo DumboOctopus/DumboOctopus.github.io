@@ -1,0 +1,109 @@
+.body{
+  width: 75%;
+  top: 0px;
+  left: 25%;
+  position: absolute;
+  background-color: #eeeeee;
+
+  /* color: grey; */
+  background-image: url('./grey.png');
+  background-repeat: repeat;
+  font-family: Gill Sans, Helvetica;
+}
+
+
+.section{
+  background-color: white;
+  border-radius: 20px;
+}
+
+.intro-header{
+  font-size: 30px;
+  color: black;
+  margin-left: 40px;
+  margin-top: 60px;
+  /* font-family: Helvetica; */
+  line-height:  55px;
+}
+
+.next-section-button-container{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.next-section-button, .next-section-button:visited{
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50; /* Green */
+  opacity: 0.6;
+  transition: 0.3s;
+  width: 70%;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  margin-top: 100px;
+}
+
+.body-section-container{
+  /* margin-bottom: 600px; */
+}
+
+.body-section-header{
+  font-size: 30px;
+  color: black;
+  margin-left: 40px;
+  /* font-family: Helvetica; */
+}
+
+.body-text{
+  font-size: 15px;
+  color: black;
+  margin-left: 40px;
+  /* font-family: Helvetica; */
+}
+
+/** Skills **/
+.chart-flex-box{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.chart-wrapper{
+  width: 450px;
+  margin-left: 25px;
+}
+
+/** work experience **/
+.work-experience-flexbox{
+  display: flex;
+  flex-direction: row;
+}
+.work-experience-image{
+  margin-left: 25px;
+  width: 100px ;
+  height: 100px ;
+  flex-shrink: 0;
+}
+.work-experience-title{
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.work-experience-title-description-container{
+  margin-left: 20px;
+}
+
+a.grey-link:visited{
+  color: grey;
+}
+
+/** contact **/
+.contact-image{
+  width: 50px;
+  height: 50px;
+}

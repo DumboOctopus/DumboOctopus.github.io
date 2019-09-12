@@ -1,0 +1,43 @@
+.sidebar {
+  width: 25%;
+  position: fixed;
+  background-image: url('./r4.jpg');
+  top: 0px;
+  /* padding: 20px; */
+  font-family: 'Lato', sans-serif;
+  height: 100%;
+}
+
+
+
+.sidebar-header {
+  font-size: 24px;
+  margin: 10%;
+}
+
+.links-container{
+  margin-top: 10%;
+  font-size: 20px;
+  font-weight: bolder;
+  color: grey;
+  list-style: none
+}
+
+.links-li{
+  margin-bottom: 30px;
+}
+
+a.nav-link{
+  font-size: 18px;
+}
+
+a.nav-link:link, a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+
+a.nav-link:hover {
+  text-decoration: none;
+  color: grey;
+}

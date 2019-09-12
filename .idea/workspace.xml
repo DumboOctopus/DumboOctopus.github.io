@@ -292,11 +292,11 @@
       <recent name="$PROJECT_DIR$/games/towerpower" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
       <recent name="$PROJECT_DIR$/resources/js" />
       <recent name="$PROJECT_DIR$/games" />
       <recent name="$PROJECT_DIR$/games/spacerock" />
       <recent name="$PROJECT_DIR$/resources/css" />
-      <recent name="$PROJECT_DIR$/resources" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (2)">
@@ -416,7 +416,7 @@
       <workItem from="1482349278352" duration="501000" />
       <workItem from="1482383100252" duration="2627000" />
       <workItem from="1482459630262" duration="746000" />
-      <workItem from="1508714850870" duration="576000" />
+      <workItem from="1508714850870" duration="773000" />
     </task>
     <task id="LOCAL-00001" summary="iss1">
       <created>1476500677236</created>
@@ -429,7 +429,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31618000" />
+    <option name="totallyTimeSpent" value="31815000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
