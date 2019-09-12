@@ -1,9 +1,10 @@
 .body{
   width: 75%;
   top: 0px;
+
   left: 25%;
   position: absolute;
-  background-color: #eeeeee;
+  /* background-color: #eeeeee; */
 
   /* color: grey; */
   background-image: url('./grey.png');
@@ -13,7 +14,8 @@
 
 @media only screen and (max-width: 600px) {
   .body {
-    width:90%; 
+    width:90%;
+    left: 10%;
   }
 }
 
