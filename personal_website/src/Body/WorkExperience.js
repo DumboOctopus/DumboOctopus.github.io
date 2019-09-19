@@ -18,7 +18,7 @@ function WorkExperience () {
             As a contributor, I coded parts of the frontend and backend of
             Daily Bruin's custom <a className="grey-link" href="https://github.com/dailybruin/meow">social media scheduler, meow</a>.
             <div className="work-experience-interrupt">Timeline</div>
-            In March 2019, the former Internal Tools Directory was promoted to the Online Director.
+            In March 2019, the former Internal Tools Director was promoted to the Online Director.
             I applied to the vacant position and since then became the <b>Internal Tools Director</b>.
             <br/>
             As the Internal Tools Director, I <b>project manage meow</b> and <b>lead</b> our Internal Tools Team.
@@ -39,7 +39,7 @@ function WorkExperience () {
             On October 2018, I became an <b>Ground Communications member</b> and I coded parts of the frontend and backend of
             UAS's groundstation web application which used Node.js, React.js and socket.io.
             <br/>
-            Unfortunately, I left the organization in March due to my promotion to Daily Bruin's Internal Tools Directory.
+            Unfortunately, I left the organization in March due to my promotion to Daily Bruin's Internal Tools Director.
           </p>
         </div>
       </div>

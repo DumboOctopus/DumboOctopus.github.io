@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "rm ../static -rf && rm -f precache-manifest.* && rm -f ../index.html && react-scripts build && cp -R build/* ../",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
