@@ -61,11 +61,11 @@ function WorkExperience () {
             this web application. Angel served as a link to the clients of this software and together, we finished a
             minimum viable product before the 2 month deadline.
             <br/>
-            Since college started, I have been to busy to stay as a teacher. So instead, I was assigned as the
+            Since college started, I have been too busy to stay as a teacher. So instead, I was assigned as the
             <b> Cod.Ed Webmaster</b>. Our website is written in Express.js and plain HTML, CSS and Javascript.
             During summer vacation, I go back to Cod.Ed to teach students or train the staff. This year, I
-            <b> taught a staff training on Devops.</b> This training covered Node.js, Express.js, MongoDB, AWS EC2
-            and docker.
+            <b> taught a 6 day staff training on Devops.</b> This training covered Node.js, Express.js, MongoDB, AWS EC2
+            and the basics of docker.
           </p>
         </div>
       </div>
