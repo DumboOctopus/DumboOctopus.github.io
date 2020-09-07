@@ -6,22 +6,22 @@ import { VictoryBar, VictoryChart, VictoryTheme, VictoryAxis, VictoryLabel } fro
 const languageData = [
   {x: "SQL", y: 2},
   {x: "C++", y: 3},
-  {x: "JS", y: 3},
-  {x: "Python", y: 4},
+  {x: "JS", y: 4},
+  {x: "Python", y: 5},
   {x: "Java", y: 5},
 ];
 
 const frameworkData = [
   {x: "Node", y: 2},
   {x: "Express.js", y: 3},
-  {x: "React.js", y: 4},
+  {x: "React.js", y: 5},
   {x: "Django", y: 5}
 ];
 
 const toolData = [
-  {x: "Linux", y: 3},
-  {x: "IntelliJ", y: 3},
-  {x: "git", y: 4}
+  {x: "Terminal", y: 3},
+  {x: "Linux", y: 4},
+  {x: "git", y: 4},
 ]
 
 class Skills extends React.Component {
@@ -29,7 +29,7 @@ class Skills extends React.Component {
     return (
     <div class="body-section-container">
       <h1 id="skills" className='body-section-header'>Skills</h1>
-      <p className='body-text'>I primarily specialize in web development.</p>
+      <p className='body-text'>I primarily specialize in web development but I do have notable experience in distributed systems and low level code.</p>
       <div className='chart-flex-box'>
         <div className="chart-wrapper">
         <VictoryChart

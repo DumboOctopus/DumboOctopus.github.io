@@ -6,7 +6,7 @@ function About () {
     <div className="body-section-container">
       <p id="about" className='intro-header'>
       Hello I'm <b>Neil</b>,<br/>
-      a <b>sophomore Computer Science major</b> at <br/>
+      a <b>Junior Computer Science major</b> at <br/>
       <b>UCLA</b> (University of California, Los Angeles)
      </p>
 

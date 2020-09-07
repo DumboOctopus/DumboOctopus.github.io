@@ -3,11 +3,32 @@ import './style.css';
 import dblogo from "./dblogo.png"
 import uaslogo from "./UASatucla.png"
 import codedlogo from "./coded.jpeg"
+import memvergelogo from "./memverge.svg"
 
 function WorkExperience () {
   return (
     <div class="body-section-container">
       <h1 id="workexperience" className='body-section-header'>Work Experience</h1>
+      <div class="work-experience-flexbox">
+        <img className="work-experience-image" src={memvergelogo} alt="Memverge Logo"/>
+        <div className="work-experience-title-description-container">
+          <p className="work-experience-title">MemVerge</p>
+          <p className="work-experience-description">
+            MemVerge uses Intel Optane to create large pools of fast, persistent memory. They have developed insanely fast
+            snapshotting, restoring and cloning features.
+            <ol>
+              <li> Created a distributed, fault tolerant snapshot coordinator. It snapshots clusters of Hazelcast In Memory Data Grid. It can snapshot any number of instances running on any number of machines, as long as an instance of the snapshot peer is running on each machine. It receives commands through TCP sockets. It also uses TCP sockets to send RPCs to other snapshot peers running on other machines. It uses MemVerge's proprietary snapshot and restore API actually perform the snapshots and restores.
+              </li>
+<li> Created two programs to thoroughly test the consistency of the snapshots and stress test the snapshot coordinator. These programs perform PUT operations using multiple threads while simulatanously snapshotting. Then it verifies the linearizable consistency by making sure the snapshot's data exactly matches on version of the database. Since the snapshot and putting is simulatously, we cannot identify exactly when the snapshot occured.
+</li>
+<li> Adapted an open source distributed system benchmarking softare (Radargun) to support hazelcast 4.0.1. Then the solutions team used my plugin to test the performance of hazelcast 4.0.1 on MemVerge's proprietary memory machine.
+           </li>
+            </ol>
+            <div className="work-experience-interrupt">Timeline</div>
+            I was an intern in the Solutions Team from June 2020 to Sept 2020.
+          </p>
+        </div>
+      </div>
       <div class="work-experience-flexbox">
         <img className="work-experience-image" src={dblogo} alt="Daily Bruin Logo"/>
         <div className="work-experience-title-description-container">
